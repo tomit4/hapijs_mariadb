@@ -1,7 +1,7 @@
 ![](./hapijs.jpg)
 
 <header>
-<h4 style=color:#206557ff>A Simple Default HapiJS/MariDB Server/Database Connection<h4>
+<h4 style=color:#206557ff>A Default HapiJS/MariDB Server/Database Connection<h4>
 </header>
 <body>
 
